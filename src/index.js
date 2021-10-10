@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {InfoCard} from 'routes';
 
 class UbiquitousJourney extends React.Component {
 
   render() {
     return (
-      <p>Hello, this is my first app!</p>
+      <InfoCard />
     );
   }
 

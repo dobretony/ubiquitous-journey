@@ -1,0 +1,7 @@
+{
+  "watchFolder": "src/routes",
+  "outputFolder": "src/css",
+  "sourceMap": true,
+  "runOnce": false,
+  "enableJs": true
+}
