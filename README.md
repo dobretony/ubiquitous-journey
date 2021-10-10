@@ -1,6 +1,8 @@
 # Ubiquitous Journey
 
-This is my personal webpage in development. It uses the create-react-app toolchain
-at the moment so all the usual commands work.
+This is my personal webpage in development.
 
-## How to compile with less
+## Structure of the project
+
+This project was created using React plus webpack and uses different modules. While
+creating this project I followed this [article](https://www.toptal.com/react/webpack-react-tutorial-pt-1).
